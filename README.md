@@ -54,7 +54,7 @@ Workaround: using String type and handling différently on code.
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide.git
+git clone https://github.com/newargus/next-auth-v5.git
 ```
 ### Cloning the original repository
 
